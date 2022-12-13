@@ -1,4 +1,4 @@
-package Work30.Task1;
+package Work30_2;
 
 class Node {
     private int value; // ключ узла

@@ -1,6 +1,5 @@
-package Work30.Task1;
+package Work30_2;
 import java.util.Stack;
-
 class Tree {
     private Node rootNode; // корневой узел
 
